@@ -1,0 +1,167 @@
+==+== fse2026artifact Review Form
+==-== DO NOT CHANGE LINES THAT START WITH "==+==" OR "==*==".
+==-== For further guidance, or to upload this file wh==*== Comments for authors
+
+[Strengths, issues, suggestions for improvement]
+
+==*== Questions for author response
+
+[Specific questions that could affect your evaluation]you are done, go to:
+==-== https://submit.iacr.org/fse2026artifact/
+
+==+== =====================================================================
+==+== Begin Review #[ID]
+==+== Version 1
+==+== Reviewer: [Your Name] <[your-email@example.com]>
+==-== Updated [YYYY-MM-DD, HH:MM TZ]
+
+==+== Paper #[PaperID]
+==-== Title: [Paper Title]
+
+==+== Review Readiness
+==-== Enter "Ready" if the review is ready for others to see:
+
+[Ready/Draft]
+
+==*== Artifact Summary
+
+[Brief description of what the artifact contains and what you evaluated - 2-3 sentences]
+
+==*== Overall merit
+==-== Choices:
+==-==    1. Reject — insufficient quality or major gaps
+==-==    2. Weak reject — notable issues; could be improved
+==-==    3. Weak accept — generally positive; some concerns
+==-==    4. Accept — solid quality; minor issues only
+==-==    5. Strong accept — excellent artifact; sets a high standard
+==-== Enter the number of your choice:
+
+[1-5] [label]
+
+==*== Reviewer expertise
+==-== Choices:
+==-==    1. No familiarity — outside my area
+==-==    2. Some familiarity — basic knowledge; needed ramp up
+==-==    3. Knowledgeable — familiar with methods and tools
+==-==    4. Expert — deep expertise in this area
+==-== Enter the number of your choice:
+
+[1-4] [label]
+
+==*== IACR FSE Artifact Badges
+==-==    Indicate which badges (if any) the artifact qualifies for.
+==-== Choices:
+==-==    1. Artifacts Available — retrievable from a stable public link (DOI optional)
+==-==    2. Artifacts Functional — runs as described; documented, complete, executable, reusable
+==-==    3. Results Reproduced — main results reproduced within tolerance
+==-== Enter your choices, separated by commas:
+
+[1,2,3]
+
+==*== Justification for Selected Badge(s)
+
+[Brief justification]
+
+==*== Does the artifact include a license?
+==-== Choices:
+==-==    1. Yes — license file present
+==-==    2. No — missing
+==-==    3. Not sure — unclear
+==-== Enter your choice:
+
+[1/2/3]
+
+==*== Artifact Accessibility
+==-==    Is the artifact accessible and retrievable using the provided instructions and links?
+==-== Choices:
+==-==    1. Fully accessible — public link works; files retrievable without special access
+==-==    2. Partially accessible — some parts restricted/missing or extra undocumented steps needed
+==-==    3. Not accessible — broken links or permissions prevent retrieval
+==-== Enter your choice:
+
+[1/2/3]
+
+==*== Documentation Quality
+==-== Choices:
+==-==    1. Poor — insufficient documentation
+==-==    2. Fair — unclear sections or missing context
+==-==    3. Good — generally clear with a few ambiguities
+==-==    4. Very Good — minor gaps but easy to follow
+==-==    5. Excellent — clear README, setup, usage, and expected outputs
+==-== Enter your choice:
+
+[1-5]
+
+==*== Completeness of Submitted Artifacts
+==-== Choices:
+==-==    1. Complete — all code/data/configs/scripts needed are present
+==-==    2. Partially complete — minor elements missing or partial coverage
+==-==    3. Incomplete — key components missing; blocks evaluation
+==-== Enter your choice:
+
+[1-3]
+
+==*== Ease of Use / Exercisability
+==-== Choices:
+==-==    1. Very easy — straightforward setup; worked without issues
+==-==    2. Easy — minor setup quirks; overall smooth
+==-==    3. Moderate — needed some troubleshooting but worked
+==-==    4. Difficult — unclear or error prone setup; significant intervention
+==-==    5. Could not run — unable to execute
+==-== Enter your choice:
+
+[1-5]
+
+==*== Reusability
+==-== Choices:
+==-==    1. Highly reusable — well organized, modular, clearly documented
+==-==    2. Reusable with minor effort — small changes or clarifications needed
+==-==    3. Reusable with significant effort — substantial cleanup/understanding required
+==-==    4. Not reusable — tightly coupled to original setup or poorly documented
+==-==    5. Not applicable — static data or fixed outputs only
+==-== Enter your choice:
+
+[1-5]
+
+==*== Results Reproducibility
+==-== Choices:
+==-==    1. Fully reproduced — main results match within acceptable tolerance
+==-==    2. Partially reproduced — some key results reproduced; others not
+==-==    3. Not reproduced — attempted but could not reproduce
+==-==    4. Not attempted — did not try (e.g., time, complexity)
+==-== Enter your choice:
+
+[1-4]
+
+==*== Commands Executed
+
+```bash
+# Copy-paste the exact commands you ran
+[command 1]
+[command 2]
+```
+
+==*== Setup Process
+
+[Setup steps, issues encountered, and time required]
+
+==*== Testing Results
+
+[What worked? What did not? Unexpected behavior?]
+
+==*== Performance/Runtime
+
+[Execution times, resource usage, scalability observations]
+
+==*== Comments and questions for authors’ response
+
+[Specific questions that could affect accept/reject; clarifications requested]
+
+==*== Comments for PC (hidden from authors)
+
+[Internal notes, confidential observations, comparison with other submissions]
+
+==+== Metadata
+==+== Commit/Tag tested: [v1.0.0 or abc1234]
+==+== Reduced scale runs used: [Yes/No, notes]
+==+== End Review
