@@ -4,27 +4,28 @@ This short guide collects practical, copy pastable tips for authors to improve a
 
 ## Table of Contents
 
-- [Learning from other research artifacts](#learning-from-other-research-artifacts)
-- [Technical implementation](#technical-implementation)
-  - [Polished terminal and CLI](#polished-terminal-and-cli)
+- [Best practices and examples (presentation, DOI, badges)](#best-practices-and-examples-presentation-doi-badges)
+  - [Table of Contents](#table-of-contents)
+  - [Learning from other research artifacts](#learning-from-other-research-artifacts)
+  - [Technical implementation](#technical-implementation)
+    - [Polished terminal and CLI](#polished-terminal-and-cli)
     - [Rich examples (copy into `tools/` or `scripts/`)](#rich-examples-copy-into-tools-or-scripts)
-  - [Reproducible environments](#reproducible-environments)
+    - [Reproducible environments](#reproducible-environments)
     - [Performance and debugging](#performance-and-debugging)
-- [Documentation and presentation](#documentation-and-presentation)
-  - [Visuals and reports](#visuals-and-reports)
-  - [Data handling and integrity](#data-handling-and-integrity)
-- [Common pitfalls to avoid](#common-pitfalls-to-avoid)
-- [Publishing and recognition](#publishing-and-recognition)
-  - [Artifact DOI workflow](#artifact-doi-workflow)
-  - [Badges and presentation](#badges-and-presentation)
-- [Ready to submit?](#ready-to-submit)
+  - [Documentation and presentation](#documentation-and-presentation)
+    - [Visuals and reports](#visuals-and-reports)
+    - [Data handling and integrity](#data-handling-and-integrity)
+  - [Common pitfalls to avoid](#common-pitfalls-to-avoid)
+  - [Publishing and recognition](#publishing-and-recognition)
+    - [Artifact DOI workflow](#artifact-doi-workflow)
+    - [Badges and presentation](#badges-and-presentation)
+  - [Ready to submit?](#ready-to-submit)
 
 ## Learning from other research artifacts
 Browse these examples to see different approaches to artifact organization, documentation, and presentation.
 
 - [CryptoSMT](https://github.com/kste/cryptosmt) - SMT/SAT-based cryptanalysis framework for differential cryptanalysis with clear documentation
 - [Lattice Estimator](https://github.com/malb/lattice-estimator) - SageMath module for estimating concrete security of Learning with Errors instances
-- [CryptoMiniSat](https://github.com/msoos/cryptominisat) - SAT solver for cryptanalysis with documentation and examples
 - [SboxAnalyzer](https://github.com/hadipourh/sboxanalyzer) - Tool for modeling cryptographic properties of vectorial Boolean functions
 - [AutoGuess](https://github.com/hadipourh/autoguess) - Tool for solving the guess-and-determine problem in cryptanalysis
 - [sboxU](https://github.com/lpp-crypto/sboxU) - S-box analysis and cryptographic properties evaluation tool
