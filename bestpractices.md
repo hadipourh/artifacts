@@ -166,11 +166,9 @@ DOI: https://doi.org/10.xxxx/xxxx
 **Artifact:** https://doi.org/10.5281/zenodo.xxxxxx
 ```
 
-**Timing considerations:**
-- **Create artifact DOI after paper acceptance**: Most venues prefer artifact DOIs created after paper acceptance
-- **Artifact evaluation period**: Some venues allow artifact DOIs during evaluation (before paper DOI is available)
+**Timing for ToSC:**
+- **Create artifact DOI before submission**: Generate your artifact DOI and include it with your artifact submission
 - **Permanent archival commitment**: Remember that Zenodo DOIs create permanent archives - your artifact will remain publicly accessible indefinitely
-- **Check venue requirements**: Different conferences have different policies on artifact DOI timing
 
 ### Badges and presentation
 Add visual indicators to communicate artifact status and enhance professional appearance.
