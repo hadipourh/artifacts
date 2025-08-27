@@ -2,9 +2,22 @@
 
 **Ship a clean, runnable artifact for evaluation. The key is making it easy for users to understand and use your work.**
 
+## Minimum Requirements
+
+**Artifacts that do not meet these requirements will be rejected without detailed review:**
+
+1. **README.md** with setup instructions and usage examples
+2. **License** file or clear license statement
+3. **Dependencies** specified (requirements.txt, Dockerfile, etc.)
+4. **Runnable code/data** (not just documentation)
+5. **Paper connection** clearly stated
+
+**Additionally, artifacts requiring more than 4 hours setup time or completely broken functionality may be rejected during review.**
+
 ## Table of Contents
 
 - [Artifact Guide for Authors](#artifact-guide-for-authors)
+  - [Minimum Requirements](#minimum-requirements)
   - [Table of Contents](#table-of-contents)
   - [What you might include](#what-you-might-include)
   - [Badges](#badges)
@@ -176,6 +189,6 @@ When you register/submit the artifact to the conference evaluation system includ
 
 ## Ready to submit?
 
-Before submitting your artifact for evaluation, use the verification checklist: [`authorchecklist.md`](authorchecklist.md)
+Before submitting your artifact for evaluation, verify you meet the minimum requirements listed at the top of this guide. Use the verification checklist: [`authorchecklist.md`](authorchecklist.md)
 
 For additional examples and advanced techniques, see [`bestpractices.md`](bestpractices.md).

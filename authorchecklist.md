@@ -2,11 +2,12 @@
 
 Use this checklist before submitting your artifact for evaluation.
 
-## Essential files
+## Minimum requirements (rejection if missing)
 - [ ] `README.md` with clear setup and usage instructions
 - [ ] `LICENSE` or license information  
 - [ ] Dependency specification (requirements.txt, environment.yml, Dockerfile, etc.)
-- [ ] Citation information (CITATION.cff or similar)
+- [ ] Runnable code/data (not just documentation)
+- [ ] Paper connection clearly stated
 
 ## Core functionality
 - [ ] Clear instructions for reproducing key results
