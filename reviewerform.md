@@ -50,7 +50,7 @@ Do not change lines that start with `==+==` or `==*==`; fill in the marked field
 - ☐ Runnable code/data present (not just documentation)
 - ☐ Paper connection clearly stated
 
-**Assessment:** ☐ All requirements met ☐ Missing requirements (recommend rejection)
+**Assessment:** ☐ All requirements met ☐ Return for resubmission
 
 **Notes on missing requirements:** [If any requirements are missing, explain here]
 

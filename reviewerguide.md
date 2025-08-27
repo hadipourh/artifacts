@@ -22,7 +22,7 @@ Artifact evaluation focuses on **technical merit, not novelty**. Your goal is to
 - **Functional:** Works as described with good documentation and completeness  
 - **Reproduced:** Main results independently verified
 
-**Minimum Requirements Check:** Before detailed evaluation, verify the artifact has: README.md, license, dependency specification, runnable code/data, and clear paper connection. Recommend rejection if any are missing.
+**Minimum Requirements Check:** Before detailed evaluation, verify the artifact has: README.md, license, dependency specification, runnable code/data, and clear paper connection. Return to authors for resubmission if any are missing.
 
 ## Badge Criteria
 

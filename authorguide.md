@@ -14,13 +14,15 @@ Submitting your research artifact provides several important benefits:
 
 ## Minimum Requirements
 
-**Artifacts that do not meet these requirements will be rejected without detailed review:**
+**Artifacts that do not meet these basic requirements will be returned to authors for resubmission within a few days:**
 
 1. **README.md** with setup instructions and usage examples
 2. **License** file or clear license statement
 3. **Dependencies** specified (requirements.txt, Dockerfile, etc.)
 4. **Runnable code/data** (not just documentation)
 5. **Paper connection** clearly stated
+
+**Authors have the opportunity to address these issues and resubmit. If minimum requirements are still not met after resubmission, the artifact will not be evaluated.**
 
 **Additionally, artifacts requiring more than 4 hours setup time or completely broken functionality may be rejected during review.**
 

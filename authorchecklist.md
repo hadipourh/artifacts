@@ -2,7 +2,7 @@
 
 Use this checklist before submitting your artifact for evaluation.
 
-## Minimum requirements (rejection if missing)
+## Minimum requirements (returned for resubmission if missing)
 - [ ] `README.md` with clear setup and usage instructions
 - [ ] `LICENSE` or license information  
 - [ ] Dependency specification (requirements.txt, environment.yml, Dockerfile, etc.)
