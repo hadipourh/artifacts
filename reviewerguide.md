@@ -1,6 +1,6 @@
 # Artifact Guide for Reviewers
 
-A comprehensive guide for evaluating research artifacts and determining badge awards.
+A complete guide for evaluating research artifacts and determining badge awards.
 
 ## Table of Contents
 
@@ -77,7 +77,7 @@ Determine whether independent execution produces results that match the paper's 
 
 ## Evaluation Process
 
-Follow this structured approach to systematically evaluate artifacts.
+Follow this structured approach to evaluate artifacts step by step.
 
 ### 1. Initial Review (30-45 minutes)
 Get oriented with the artifact and assess your capability to review it.
@@ -105,7 +105,7 @@ Verify the artifact's basic functionality before deeper evaluation.
 Conduct the core assessment of the artifact's claims and functionality.
 
 - Run experiments as described in the paper, adapting scope as needed
-- For long-running experiments, consider using smaller datasets or fewer iterations
+- For long running experiments, consider using smaller datasets or fewer iterations
 - Document what you tried and what worked or didn't work
 - Compare outputs with the paper's claims where feasible
 

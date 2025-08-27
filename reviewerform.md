@@ -9,6 +9,7 @@ Do not change lines that start with `==+==` or `==*==`; fill in the marked field
 
 - [Artifact Summary](#artifact-summary)
 - [Artifact Metadata](#artifact-metadata)
+- [Minimum Requirements Check](#minimum-requirements-check)
 - [Evaluation Environment](#evaluation-environment)
 - [Badge Evaluation](#badge-evaluation)
 - [Detailed Evaluation](#detailed-evaluation)
@@ -38,6 +39,20 @@ Do not change lines that start with `==+==` or `==*==`; fill in the marked field
 - **License included:** ☐ Yes (license file present) ☐ No (missing) ☐ Not sure (unclear)
 - **Primary language/platform:** [e.g., Python 3.9, C++17, MATLAB R2023a]
 - **Environment requirements:** [e.g., Linux, GPU, specific hardware]
+
+## Minimum Requirements Check
+
+**Check these basic requirements before detailed evaluation:**
+
+- ☐ README.md exists with setup instructions and usage examples
+- ☐ License file or clear license statement present
+- ☐ Dependencies specified (requirements.txt, Dockerfile, etc.)
+- ☐ Runnable code/data present (not just documentation)
+- ☐ Paper connection clearly stated
+
+**Assessment:** ☐ All requirements met ☐ Missing requirements (recommend rejection)
+
+**Notes on missing requirements:** [If any requirements are missing, explain here]
 
 ## Evaluation Environment
 
@@ -98,7 +113,7 @@ Do not change lines that start with `==+==` or `==*==`; fill in the marked field
 
 ### Commands Executed
 ```bash
-# Copy-paste the exact commands you ran
+# Copy paste the exact commands you ran
 [command 1]
 [command 2]
 ...

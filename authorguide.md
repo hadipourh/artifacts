@@ -2,6 +2,16 @@
 
 **Ship a clean, runnable artifact for evaluation. The key is making it easy for users to understand and use your work.**
 
+## Why Submit an Artifact
+
+Submitting your research artifact provides several important benefits:
+
+- **Increased visibility and citations** for your work through better reproducibility
+- **Recognition badges** that demonstrate the quality and rigor of your research
+- **Permanent archival** with DOI for long term accessibility
+- **Community impact** by enabling others to build upon your contributions
+- **Validation** of your experimental claims through independent verification
+
 ## Minimum Requirements
 
 **Artifacts that do not meet these requirements will be rejected without detailed review:**
@@ -17,6 +27,7 @@
 ## Table of Contents
 
 - [Artifact Guide for Authors](#artifact-guide-for-authors)
+  - [Why Submit an Artifact](#why-submit-an-artifact)
   - [Minimum Requirements](#minimum-requirements)
   - [Table of Contents](#table-of-contents)
   - [What you might include](#what-you-might-include)
@@ -61,7 +72,7 @@ Your artifact can be **code**, **datasets**, **analysis scripts**, **configurati
 
 ## Badges
 
-- **Available**: Publicly retrievable via stable link (a DOI is optional but recommended for citability)
+- **Available**: Publicly retrievable via stable link (DOI optional but recommended)
 - **Functional**: Works as described with good documentation and completeness
 - **Reproduced**: Main results independently verified
 
@@ -121,7 +132,7 @@ If you build a custom tool for your experiments, keep the interface simple and p
 - **Code structure**: Organize your code logically with meaningful file and directory names
 - **Small datasets**: Include small datasets (< 100MB) directly in your repository with clear documentation
 - **Large datasets**: For large datasets, provide download scripts with checksums and clear instructions
-- **Dataset only artifacts**: For pure dataset submissions, include comprehensive metadata, format specifications, and analysis or viewing tools
+- **Dataset only artifacts**: For pure dataset submissions, include complete metadata, format details, and analysis or viewing tools
 - **Dataset documentation**: Always include schema descriptions, generation procedures, and validation methods
 - **Licensing**: Include appropriate licenses for your code and data, clearly documenting any third party components
 - **Reproducibility**: Consider what someone would need to reproduce, validate, or extend your work
@@ -135,10 +146,10 @@ If you build a custom tool for your experiments, keep the interface simple and p
 
 ## Hosting and Submission
 
-**For artifact evaluation**: [GitHub](https://github.com/) release, institutional repository, or stable share link. 
+**Hosting and Submission:** [GitHub](https://github.com/) release, institutional repository, or stable share link. 
 Consider creating a DOI for your artifact via [Zenodo](https://zenodo.org/) (optional but recommended for citability, professional presentation, and permanent archival).
 
-> **Tip:** For step-by-step instructions on creating a DOI for your artifact using GitHub and Zenodo, see the detailed workflow in [`bestpractices.md`](bestpractices.md#artifact-doi-workflow).
+> **Tip:** For step by step instructions on creating a DOI for your artifact using GitHub and Zenodo, see the detailed workflow in [`bestpractices.md`](bestpractices.md#artifact-doi-workflow).
 
 **Submission**: Via conference artifact evaluation system with accepted paper info, artifact abstract, and contact details
 
@@ -175,7 +186,7 @@ When you register/submit the artifact to the conference evaluation system includ
 
 ### Data artifacts
 
-- For dataset artifacts (specialized data collections, test instances, experimental data), prefer common machine readable formats (CSV, JSON, XML, HDF5) and include comprehensive metadata describing the schema, generation method, and provenance.
+- For dataset artifacts (specialized data collections, test instances, experimental data), prefer common machine readable formats (CSV, JSON, XML, HDF5) and include complete metadata describing the schema, generation method, and provenance.
 - **Mathematical datasets**: Include appropriate representations, standard formats, and verification scripts to check key properties mentioned in your paper.
 - **Test collections**: Use standardized formats where possible and include validation scripts that verify expected properties.
 - **Benchmark collections**: Include difficulty metrics, expected solution approaches, and baseline performance measurements.
